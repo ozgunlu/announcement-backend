@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HRAnnouncements.Modules.Announcements.Domain/1.0.0": {
+        "runtime": {
+          "HRAnnouncements.Modules.Announcements.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRAnnouncements.Modules.Announcements.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

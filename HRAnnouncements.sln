@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{57BE8060-7F13-454E-9001-8003AAAF9C94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Announcements", "Announcements", "{09278BCD-8FE6-41DE-B71A-1027850C62DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{54048AEE-E252-41EB-9C83-EEEFB4FE7C11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRAnnouncements.Modules.Announcements.Domain", "Modules\Announcements\Domain\HRAnnouncements.Modules.Announcements.Domain\HRAnnouncements.Modules.Announcements.Domain.csproj", "{7BA891D6-0637-4458-A8D1-87B2D33ECAF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{52B5C2B3-196F-4ADD-A4CA-FB5CF73B9C2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRAnnouncements.Modules.Announcements.Application", "Modules\Announcements\Application\HRAnnouncements.Modules.Announcements.Application\HRAnnouncements.Modules.Announcements.Application.csproj", "{DEFB81DC-908A-4EE4-871B-12FFB924F541}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{20F20219-D3CC-4FF4-AD61-F5872A8BBA34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRAnnouncements.Modules.Announcements.Persistence", "Modules\Announcements\Persistence\HRAnnouncements.Modules.Announcements.Persistence\HRAnnouncements.Modules.Announcements.Persistence.csproj", "{8FBBB918-2C0D-444D-834E-E97AE62B5ACA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{1A13BA07-52A2-4FAB-ACDC-CC68F67788BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRAnnouncements.Modules.Announcements.API", "Modules\Announcements\API\HRAnnouncements.Modules.Announcements.API\HRAnnouncements.Modules.Announcements.API.csproj", "{AD83CB0B-1C05-46C2-B029-3E9B79650ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BA891D6-0637-4458-A8D1-87B2D33ECAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA891D6-0637-4458-A8D1-87B2D33ECAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA891D6-0637-4458-A8D1-87B2D33ECAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA891D6-0637-4458-A8D1-87B2D33ECAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFB81DC-908A-4EE4-871B-12FFB924F541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFB81DC-908A-4EE4-871B-12FFB924F541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFB81DC-908A-4EE4-871B-12FFB924F541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFB81DC-908A-4EE4-871B-12FFB924F541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBBB918-2C0D-444D-834E-E97AE62B5ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBBB918-2C0D-444D-834E-E97AE62B5ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBBB918-2C0D-444D-834E-E97AE62B5ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBBB918-2C0D-444D-834E-E97AE62B5ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD83CB0B-1C05-46C2-B029-3E9B79650ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD83CB0B-1C05-46C2-B029-3E9B79650ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD83CB0B-1C05-46C2-B029-3E9B79650ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD83CB0B-1C05-46C2-B029-3E9B79650ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{09278BCD-8FE6-41DE-B71A-1027850C62DC} = {57BE8060-7F13-454E-9001-8003AAAF9C94}
+		{54048AEE-E252-41EB-9C83-EEEFB4FE7C11} = {09278BCD-8FE6-41DE-B71A-1027850C62DC}
+		{7BA891D6-0637-4458-A8D1-87B2D33ECAF8} = {54048AEE-E252-41EB-9C83-EEEFB4FE7C11}
+		{52B5C2B3-196F-4ADD-A4CA-FB5CF73B9C2A} = {09278BCD-8FE6-41DE-B71A-1027850C62DC}
+		{DEFB81DC-908A-4EE4-871B-12FFB924F541} = {52B5C2B3-196F-4ADD-A4CA-FB5CF73B9C2A}
+		{20F20219-D3CC-4FF4-AD61-F5872A8BBA34} = {09278BCD-8FE6-41DE-B71A-1027850C62DC}
+		{8FBBB918-2C0D-444D-834E-E97AE62B5ACA} = {20F20219-D3CC-4FF4-AD61-F5872A8BBA34}
+		{1A13BA07-52A2-4FAB-ACDC-CC68F67788BA} = {09278BCD-8FE6-41DE-B71A-1027850C62DC}
+		{AD83CB0B-1C05-46C2-B029-3E9B79650ADD} = {1A13BA07-52A2-4FAB-ACDC-CC68F67788BA}
+	EndGlobalSection
+EndGlobal

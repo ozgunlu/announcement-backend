@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HRAnnouncements.Modules.Announcements.API.props" />
+</Project>

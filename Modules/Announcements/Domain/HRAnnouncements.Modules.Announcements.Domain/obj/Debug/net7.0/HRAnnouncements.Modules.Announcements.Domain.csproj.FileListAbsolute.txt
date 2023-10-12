@@ -1,0 +1,11 @@
+C:\Users\ozgun\OneDrive\Masaüstü\HRAnnouncements\backend\Modules\Announcements\Domain\HRAnnouncements.Modules.Announcements.Domain\bin\Debug\net7.0\HRAnnouncements.Modules.Announcements.Domain.deps.json
+C:\Users\ozgun\OneDrive\Masaüstü\HRAnnouncements\backend\Modules\Announcements\Domain\HRAnnouncements.Modules.Announcements.Domain\bin\Debug\net7.0\HRAnnouncements.Modules.Announcements.Domain.dll
+C:\Users\ozgun\OneDrive\Masaüstü\HRAnnouncements\backend\Modules\Announcements\Domain\HRAnnouncements.Modules.Announcements.Domain\bin\Debug\net7.0\HRAnnouncements.Modules.Announcements.Domain.pdb
+C:\Users\ozgun\OneDrive\Masaüstü\HRAnnouncements\backend\Modules\Announcements\Domain\HRAnnouncements.Modules.Announcements.Domain\obj\Debug\net7.0\HRAnnouncements.Modules.Announcements.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\OneDrive\Masaüstü\HRAnnouncements\backend\Modules\Announcements\Domain\HRAnnouncements.Modules.Announcements.Domain\obj\Debug\net7.0\HRAnnouncements.Modules.Announcements.Domain.AssemblyInfoInputs.cache
+C:\Users\ozgun\OneDrive\Masaüstü\HRAnnouncements\backend\Modules\Announcements\Domain\HRAnnouncements.Modules.Announcements.Domain\obj\Debug\net7.0\HRAnnouncements.Modules.Announcements.Domain.AssemblyInfo.cs
+C:\Users\ozgun\OneDrive\Masaüstü\HRAnnouncements\backend\Modules\Announcements\Domain\HRAnnouncements.Modules.Announcements.Domain\obj\Debug\net7.0\HRAnnouncements.Modules.Announcements.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\OneDrive\Masaüstü\HRAnnouncements\backend\Modules\Announcements\Domain\HRAnnouncements.Modules.Announcements.Domain\obj\Debug\net7.0\HRAnnouncements.Modules.Announcements.Domain.dll
+C:\Users\ozgun\OneDrive\Masaüstü\HRAnnouncements\backend\Modules\Announcements\Domain\HRAnnouncements.Modules.Announcements.Domain\obj\Debug\net7.0\refint\HRAnnouncements.Modules.Announcements.Domain.dll
+C:\Users\ozgun\OneDrive\Masaüstü\HRAnnouncements\backend\Modules\Announcements\Domain\HRAnnouncements.Modules.Announcements.Domain\obj\Debug\net7.0\HRAnnouncements.Modules.Announcements.Domain.pdb
+C:\Users\ozgun\OneDrive\Masaüstü\HRAnnouncements\backend\Modules\Announcements\Domain\HRAnnouncements.Modules.Announcements.Domain\obj\Debug\net7.0\ref\HRAnnouncements.Modules.Announcements.Domain.dll

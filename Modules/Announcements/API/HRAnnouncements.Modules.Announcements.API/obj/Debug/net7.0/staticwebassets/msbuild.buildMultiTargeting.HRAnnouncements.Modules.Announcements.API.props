@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HRAnnouncements.Modules.Announcements.API.props" />
+</Project>
